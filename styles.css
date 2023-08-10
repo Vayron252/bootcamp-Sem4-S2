@@ -1,0 +1,47 @@
+h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    position: absolute;
+    right: 1rem;
+}
+
+.cajaceleste {
+    background-color: rgb(116, 180, 206);
+    width: 40rem;
+    height: 15rem;
+    position: relative;
+    z-index: 10;
+    top: 3rem;
+    left: 3rem;
+}
+
+.cajaroja {
+    background-color: red;
+    width: 40rem;
+    height: 15rem;
+    position: relative;
+    z-index: 20;
+    top: -7rem;
+    left: 8rem;
+}
+
+.cajaploma {
+    background-color: gray;
+    width: 40rem;
+    height: 15rem;
+    position: relative;
+    z-index: 30;
+    top: -16rem;
+    left: 13rem;
+}
+
+.cajaverde {
+    background-color: chartreuse;
+    width: 15rem;
+    height: 12rem;
+    position: relative;
+    z-index: 40;
+    top: -35.5rem;
+    left: 9.5rem;
+}
